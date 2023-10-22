@@ -118,7 +118,7 @@ androidx-test-services = "1.4.2"
 
 # for shadows/playservices/build.gradle
 androidx-fragment-for-shadows = "1.2.0"
-play-services-base-for-shadows = "8.4.0"
+play-services-base-for-shadows = "18.2.0"
 
 [libraries]
 android-gradle = { module = "com.android.tools.build:gradle", version.ref = "android-gradle" }
